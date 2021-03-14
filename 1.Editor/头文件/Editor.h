@@ -1,3 +1,6 @@
+/*
+ *EDIT头文件
+ */
 #ifndef _editor_h
 #define _editor_h
 class Editor {
